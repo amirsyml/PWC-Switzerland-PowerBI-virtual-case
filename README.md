@@ -1,7 +1,7 @@
 # PWC-Switzerland-PowerBI-virtual-case
 
 <p align = "center">
-  <img src="https://scontent.fkul8-1.fna.fbcdn.net/v/t39.30808-6/299282113_10160800637385982_8369896599076107198_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=feppSsyn0uQAX82syh9&_nc_ht=scontent.fkul8-1.fna&oh=00_AfAsuIU3pIq4CoDvmLnKnhRlkTy9PbPZv8ynpktU_4UG-w&oe=63D6EA41" width="300" height="300>
+  <img src="https://scontent.fkul8-1.fna.fbcdn.net/v/t39.30808-6/299282113_10160800637385982_8369896599076107198_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=feppSsyn0uQAX82syh9&_nc_ht=scontent.fkul8-1.fna&oh=00_AfAsuIU3pIq4CoDvmLnKnhRlkTy9PbPZv8ynpktU_4UG-w&oe=63D6EA41" width="300" height="300"/>
 
 ## Task 1 - Call Centre Trends
 
